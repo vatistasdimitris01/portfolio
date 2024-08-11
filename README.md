@@ -1,1 +1,1 @@
-# Made it with some elements of framer and magicUI
+Made it with some elements of framer and magicUI
